@@ -1,0 +1,31 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olegsugatov/yarn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.12.7",
+    "lodash": "^4.17.4",
+    "mobx": "^3.1.5",
+    "mysql": "^2.13.0",
+    "react": "^0.14",
+    "vue": "^2.2.6"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "webpack": "^2.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/olegsugatov/yarn/issues"
+  },
+  "homepage": "https://github.com/olegsugatov/yarn#readme"
+}
